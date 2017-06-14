@@ -1,0 +1,27 @@
+hr {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.content {
+	margin-top: 65px;
+}
+.content h1 {
+	font-size: 21px;
+}
+.content h2, span {
+	display: inline;
+	font-size: 18px;
+}
+.content img {
+	margin-bottom: 20px;
+}
+.content button {
+	color: white;
+	background-color: #5cb85c;
+}
+.content .rating span {
+	font-size: 14px;
+}
+.content .thumbnail .rating span {
+	color: #d17581;
+}
